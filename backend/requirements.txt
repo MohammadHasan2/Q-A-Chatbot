@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-google-genai
+sentence-transformers
+chromadb
+numpy
+umap-learn
+tqdm
+matplotlib
+pypdf
+python-multipart
